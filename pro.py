@@ -8,5 +8,6 @@ for letra in mensaje:
     contador +=1
 
 print(contador)
+print(contador)
 
 
