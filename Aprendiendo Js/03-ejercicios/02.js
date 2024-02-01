@@ -1,0 +1,3 @@
+function nombreresolucion(ancho, alto) {
+    
+}
